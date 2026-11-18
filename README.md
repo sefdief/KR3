@@ -4,7 +4,7 @@
 
 ## 🌐 Демо проекта
 
-[Посмотреть сайт](https://ТВОЙ_ЛОГИН.github.io/kr2-bootstrap-shop/)
+[Посмотреть сайт](https://sefdief.github.io/KR3/)
 
 ## Технологии
 
